@@ -1,5 +1,5 @@
 
-[![MasterHead]("https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif")](https://frontedtee.github.io/PORTFOLIO-SITE/)
+[![MasterHead]("https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif")]("https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif")
 <h1 align="center">Hi 👋, I'm Adetayo</h1>
 <h3 align="center">A passionate Software developer from Lagos a big passion for solving problems.</h3>
 
