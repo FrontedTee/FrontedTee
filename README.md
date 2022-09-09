@@ -4,8 +4,6 @@
 <h3 align="center">A passionate Software developer from Lagos with a big passion for solving problems.</h3> <br><br>
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frontedtee" alt="frontedtee" /></a> </p>
-
 - 🔭 I’m currently working on **CampusHome**
 
 - 🌱 I’m currently learning **PHP**
@@ -20,6 +18,10 @@
 
 - ⚡ Fun fact **I play chess and I love to sleep**
 - <br><br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frontedtee" alt="frontedtee" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
