@@ -1,8 +1,8 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://frontedtee.github.io/PORTFOLIO-SITE/)
+[![MasterHead]("https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif")](https://frontedtee.github.io/PORTFOLIO-SITE/)
 <h1 align="center">Hi 👋, I'm Adetayo</h1>
 <h3 align="center">A passionate Software developer from Lagos a big passion for solving problems.</h3>
-<img align="right" alt="Coding" style="width:100%" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frontedtee" alt="frontedtee" /></a> </p>
 
