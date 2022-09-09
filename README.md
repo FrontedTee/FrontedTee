@@ -1,9 +1,8 @@
 
-[![MasterHead]<img align="center" alt="Coding" width="100%" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
-<h1 align="center">Hi 👋, I'm Adetayo</h1>
-<h3 align="center">A passionate Software developer from Lagos a big passion for solving problems.</h3>
-
+<h1 align="center">Holla, I'm Adetayo.</h1>
+<h3 align="center">A passionate Software developer from Lagos with a big passion for solving problems.</h3> <br><br><br>
+<br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frontedtee" alt="frontedtee" /></a> </p>
 
