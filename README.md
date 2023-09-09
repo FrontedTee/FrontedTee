@@ -34,10 +34,8 @@
 
  <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navlos&show_icons=true&locale=en&layout=compact" alt="frontedtee" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navlos&show_icons=true&locale=en" alt="frontedtee" /></p>
- <br><br>
+ [![Navlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=navlos)](https://github.com/navlos/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navlos&" alt="navlos" /></p>
 <h3 align="left">Support:</h3>
