@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Holla, I'm Adetayo.</h1>
-<h3 align="center">A passionate Software developer from Lagos with a big passion for solving problems.</h3> <br><br>
+<h2 align="center;border='1px solid black";padding='1em>Holla, I'm Adetayo.</h>
+<p align="center">A passionate Software developer from Lagos with a big passion for solving problems.</p> <br><br>
 <br>
 
 
