@@ -1,6 +1,6 @@
 
 
-<h2 align="center;border='1px solid black";padding='1em>Holla, I'm Adetayo.</h>
+<h2 align="center;border='1px solid black";padding='1em'>Holla, I'm Adetayo.</h>
 <p align="center">A passionate Software developer from Lagos with a big passion for solving problems.</p> <br><br>
 <br>
 
