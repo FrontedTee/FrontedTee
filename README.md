@@ -1,10 +1,9 @@
 
 <hr>
-<p>Software Developer</p>
+<h2 align="center">Software Developer</h2>
+<p align = "center">I'm like Batman, but for the web,I improve lives through my code. </p>
 <hr>
 
-
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navlos" alt="frontedtee" /></a> </p>
 
 
  [![Navlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=navlos)](https://github.com/navlos/github-readme-stats)
